@@ -30,7 +30,7 @@ The PDF Summarization Bot is a Python application that reads PDF files from a sp
 2. Install the required packages:
 
    ````bash
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
 
    ````
 
@@ -42,7 +42,7 @@ The PDF Summarization Bot is a Python application that reads PDF files from a sp
 
 ## Executable File
 
-An executable version of the bot is included in this repository. You can simply download the PDFSummarizer.exe file from the repository and run it without needing to install Python or any dependencies.
+An executable version of the bot is included in this repository. You can simply download the PdfInsightBot.exe file from the repository and run it without needing to install Python or any dependencies.
 
 ## Contributing
 
